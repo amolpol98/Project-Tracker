@@ -1,0 +1,1 @@
+C:\GitHub\LifeCalculator\LifeCycle\LifeCycle\LifeCycle.csproj;neutral
